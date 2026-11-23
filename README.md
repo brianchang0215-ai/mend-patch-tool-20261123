@@ -1,3 +1,7 @@
+[![make.fun bounty](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/brianchang0215-ai/mend-patch-tool-20261123/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/brianchang0215-ai/mend-patch-tool-20261123/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+
 # mend
 
 One patch tool for every AI edit format: a Node 22 CLI (`main.ts`) that applies
